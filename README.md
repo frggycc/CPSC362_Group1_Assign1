@@ -8,7 +8,9 @@
 
 - A search bar will be available for users to search for products by name or by product number
 - Users will be able to add products to their carts for purchase at a later time
-- User
+- User will be able to have a digital wallet, where they are able to transfer funds into their Nike account
+- Each clothing item will be catergorized by their sport for users to view them by their sport
+- Users will be able to create an account
 
 ## Non-Function Requirements
 
