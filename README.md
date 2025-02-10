@@ -12,7 +12,7 @@
 - Each clothing item will be catergorized by their sport for users to view them by their sport
 - Users will be able to create an account
 
-## Non-Function Requirements
+## Non-Functional Requirements
 
 -  When users create or log into an existing account, the items added to the shopping should transfer over to the account that was recently logged into
 - Regardless of where the device or browser the user is accessing the website from, the website shall remain functioning without significant changes to the layout
