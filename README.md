@@ -21,3 +21,5 @@
 - Sensitive data, such as passwords, user account information, and payment information, shall be secured using current encryption practices and tokenization
 
 Click here to access the [Nike](https://www.nike.com/?cp=41180663293_search_-nike-g-20300414621-152206248604-e-c&dplnk=member&gad_source=1&gclid=CjwKCAiA5Ka9BhB5EiwA1ZVtvC61qk7HCX20KI1YEGTqYOVzCoyOw9Pw7y2o3CnnP37U1uEugSMzyRoCKoMQAvD_BwE&gclsrc=aw.ds) website
+
+<img width="936" alt="Screenshot 2025-02-12 at 3 32 57 PM" src="https://github.com/user-attachments/assets/0bed97dd-d32f-458c-8dad-0170b790e72d" />
