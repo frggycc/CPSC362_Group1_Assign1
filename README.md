@@ -6,11 +6,31 @@
 
 ## Functional Requirements
 
-- A search bar will be available for users to search for products by name or by product number
-- Users will be able to add products to their carts for purchase at a later time
-- User will be able to have a digital wallet, where they are able to transfer funds into their Nike account
-- Each clothing item will be catergorized by their sport for users to view them by their sport
-- Users will be able to create an account
+| ID | FR_0 |
+| ----------- | ----------- |
+|  Identity | Homepage |
+| Description | Users will be able to access a homepage when opening a link to the website. It will be the access point to mulitple features. |
+
+| ID | FR_1 |
+| ---------- | ------- |
+| Identity | Searchbar |
+| Description | Users will be able to search for products by name or product number. |
+
+| ID | FR_2 |
+|---- | --- |
+| Identity | Shoppping Cart |
+| Description | Users will be able to add products to their carts to purchase multiple items at once and for purchasing at a later time. |
+
+| ID | FR_3 |
+| ----- | ------ |
+| Identity | Account Creation |
+| Description | Users will be to create an account to save their payment information, payment history, and shipping tracking. |
+
+| ID | FR_4 |
+| ---- | ---- |
+| Identity | Notifications |
+| Description | Users who have saved their contact information can be sent notifcations about updates, reminders, and promotional content. | 
+
 
 ## Non-Functional Requirements
 
