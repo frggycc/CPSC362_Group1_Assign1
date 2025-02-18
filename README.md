@@ -17,11 +17,15 @@
 
 ## Non-Functional Requirements
 
--  When users create or log into an existing account, the items added to the shopping should transfer over to the account that was recently logged into
-- Regardless of where the device or browser the user is accessing the website from, the website shall remain functioning without significant changes to the layout
-- Each web page will have the same layout and formatting to allow *new* and returning users to navigate the website effectively and with ease
-- The website will be managed, maintained, and updated over time, adjusting to current styles and current security practices
-- Sensitive data, such as passwords, user account information, and payment information, shall be secured using current encryption practices and tokenization
+| ID | Identity | Description |
+| ----------- | ----------- | ------|
+| NFR_0 | Loading Time | The pages on the website should be able to load in 2 seconds when the total number of simultaneous users is less than 6 thousand. |
+| NFR_1 | Performance Non Deterioration | The website should be able to handle 30 million users without performance issues occuring as a result. |
+| NFR_2 | Windows 10 and 11 | The website should be able to run properly without any change in performance and behavior on both Windows 10 and Windows 11.  |
+| NFR_3 | Payment Processing | The payment process must be compliant with the PCI DSS. |
+| NFR_4 | Region Accessibility | The website should be made available in US, UN, and Canadian regions to ensure a wide geographic accessibility.| 
+
+
 
 Click here to access the [Nike](https://www.nike.com/?cp=41180663293_search_-nike-g-20300414621-152206248604-e-c&dplnk=member&gad_source=1&gclid=CjwKCAiA5Ka9BhB5EiwA1ZVtvC61qk7HCX20KI1YEGTqYOVzCoyOw9Pw7y2o3CnnP37U1uEugSMzyRoCKoMQAvD_BwE&gclsrc=aw.ds) website
 
