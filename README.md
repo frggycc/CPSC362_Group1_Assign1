@@ -6,30 +6,13 @@
 
 ## Functional Requirements
 
-| ID | FR_0 |
-| ----------- | ----------- |
-|  Identity | Homepage |
-| Description | Users will be able to access a homepage when opening a link to the website. It will be the access point to mulitple features. |
-
-| ID | FR_1 |
-| ---------- | ------- |
-| Identity | Searchbar |
-| Description | Users will be able to search for products by name or product number. |
-
-| ID | FR_2 |
-|---- | --- |
-| Identity | Shoppping Cart |
-| Description | Users will be able to add products to their carts to purchase multiple items at once and for purchasing at a later time. |
-
-| ID | FR_3 |
-| ----- | ------ |
-| Identity | Account Creation |
-| Description | Users will be to create an account to save their payment information, payment history, and shipping tracking. |
-
-| ID | FR_4 |
-| ---- | ---- |
-| Identity | Notifications |
-| Description | Users who have saved their contact information can be sent notifcations about updates, reminders, and promotional content. | 
+| ID | Identity | Description |
+| ----------- | ----------- | ------|
+| FR_0 | Homepage | Users will be able to access a homepage when opening a link to the website. It will be the access point to mulitple features. |
+| FR_1 | Searchbar | Users will be able to search for products by name or product number. |
+| FR_2 | Shoppping Cart | Users will be able to add products to their carts to purchase multiple items at once and for purchasing at a later time. |
+| FR_3 | Account Creation | Users will be to create an account to save their payment information, payment history, and shipping tracking. |
+| FR_4 | Notifications | Users who have saved their contact information can be sent notifcations about updates, reminders, and promotional content. | 
 
 
 ## Non-Functional Requirements
