@@ -13,6 +13,8 @@
 | FR_2 | Shoppping Cart | Users will be able to add products to their carts to purchase multiple items at once and for purchasing at a later time. |
 | FR_3 | Account Creation | Users will be to create an account to save their payment information, payment history, and shipping tracking. |
 | FR_4 | Notifications | Users who have saved their contact information can be sent notifcations about updates, reminders, and promotional content. | 
+| FR_5 | Account | Users will be able to access their account and account information
+| FR_6 | Digital Waller | Users will be able to access their digital wallet through their Account and add and save different payment methods. |
 
 
 ## Non-Functional Requirements
