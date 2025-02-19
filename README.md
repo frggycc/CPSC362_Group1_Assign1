@@ -42,6 +42,6 @@
 Click here to access the [Nike](https://www.nike.com/?cp=41180663293_search_-nike-g-20300414621-152206248604-e-c&dplnk=member&gad_source=1&gclid=CjwKCAiA5Ka9BhB5EiwA1ZVtvC61qk7HCX20KI1YEGTqYOVzCoyOw9Pw7y2o3CnnP37U1uEugSMzyRoCKoMQAvD_BwE&gclsrc=aw.ds) website
 
 
-<img width="1021" alt="Screenshot 2025-02-12 at 3 35 59 PM" src="https://github.com/user-attachments/assets/c48d0a03-195d-4361-8c09-db2f11c6b32c" />
+[//]: <> (<img width="1021" alt="Screenshot 2025-02-12 at 3 35 59 PM" src="https://github.com/user-attachments/assets/c48d0a03-195d-4361-8c09-db2f11c6b32c" />)
 
 ![Group_Diagram](https://github.com/user-attachments/assets/cf9f5ece-d1df-4d96-9e44-b73e05507a8b)
