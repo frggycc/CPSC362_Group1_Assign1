@@ -15,6 +15,8 @@
 | FR_4 | Notifications | Users who have saved their contact information can be sent notifcations about updates, reminders, and promotional content. | 
 | FR_5 | Account | Users will be able to access their account and account information
 | FR_6 | Digital Waller | Users will be able to access their digital wallet through their Account and add and save different payment methods. |
+| FR_7 | Checkout | Users will be able to checkout and buy the items in their cart. |
+| FR_8 | Contact | Users can go to a contact page from the homepage for customer support, return information and more |
 
 
 ## Non-Functional Requirements
