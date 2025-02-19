@@ -22,6 +22,8 @@
 | FR_11 | Men | Users will be able to search for a variety of men's products. |
 | FR_12 | Women | Users will be able to search for a variety of women's products. |
 | FE_13 | Kids | Users will be able to search for a variety of kids's products. |
+| FE_14 | Confirmation | Users will be able to receive confirmation of their purchase to their email associate with their account. |
+| FE_15 | Buy Now | Users only buying one item will be able immediately purchase it by skipping adding it to the cart. |
 
 
 ## Non-Functional Requirements
