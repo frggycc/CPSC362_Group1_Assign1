@@ -13,8 +13,8 @@
 | FR_2 | Shopping Cart | Users will be able to add products to their carts to purchase multiple items at once and for purchasing at a later time. |
 | FR_3 | Account Creation | Users will be to create an account to save their payment information, payment history, and shipping tracking. |
 | FR_4 | Notifications | Users who have saved their contact information can be sent notifcations about updates, reminders, and promotional content. | 
-| FR_5 | Account | Users will be able to access their account and account information
-| FR_6 | Digital Waller | Users will be able to access their digital wallet through their Account and add and save different payment methods. |
+| FR_5 | Account | Users will be able to access their account and account information |
+| FR_6 | Digital Wallet | Users will be able to access their digital wallet through their Account and add and save different payment methods. |
 | FR_7 | Add to Cart | Users will be able to add items to their cart after selecting a product size and color. |
 | FR_8 | Product Page | Users will be able to search through products and filter with preferences. |
 | FR_9 | Checkout | Users will be able to checkout and buy the items in their cart. |
@@ -24,6 +24,7 @@
 | FE_13 | Kids | Users will be able to search for a variety of kids's products. |
 | FE_14 | Confirmation | Users will be able to receive confirmation of their purchase to their email associate with their account. |
 | FE_15 | Buy Now | Users only buying one item will be able immediately purchase it by skipping adding it to the cart. |
+| FE_16 | Sign In | Existing users can sign in to their account. |
 
 
 ## Non-Functional Requirements
