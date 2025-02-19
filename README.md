@@ -10,7 +10,7 @@
 | ----------- | ----------- | ------|
 | FR_0 | Homepage | Users will be able to access a homepage when opening a link to the website. It will be the access point to mulitple features. |
 | FR_1 | Searchbar | Users will be able to search for products by name or product number. |
-| FR_2 | Shoppping Cart | Users will be able to add products to their carts to purchase multiple items at once and for purchasing at a later time. |
+| FR_2 | Shopping Cart | Users will be able to add products to their carts to purchase multiple items at once and for purchasing at a later time. |
 | FR_3 | Account Creation | Users will be to create an account to save their payment information, payment history, and shipping tracking. |
 | FR_4 | Notifications | Users who have saved their contact information can be sent notifcations about updates, reminders, and promotional content. | 
 | FR_5 | Account | Users will be able to access their account and account information
@@ -19,6 +19,9 @@
 | FR_8 | Product Page | Users will be able to search through products and filter with preferences. |
 | FR_9 | Checkout | Users will be able to checkout and buy the items in their cart. |
 | FR_10 | Contact | Users can go to a contact page from the homepage for customer support, return information and more |
+| FR_11 | Men | Users will be able to search for a variety of men's products. |
+| FR_12 | Women | Users will be able to search for a variety of women's products. |
+| FE_13 | Kids | Users will be able to search for a variety of kids's products. |
 
 
 ## Non-Functional Requirements
